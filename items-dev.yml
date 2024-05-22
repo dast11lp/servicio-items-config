@@ -1,4 +1,5 @@
 configuracion:
   texto: configurando ambiente de Desarrollo 
-  autor: Daniel
-  email: daniel@mail.com
+  autor:
+    nombre: Daniel
+    email: daniel@mail.com
